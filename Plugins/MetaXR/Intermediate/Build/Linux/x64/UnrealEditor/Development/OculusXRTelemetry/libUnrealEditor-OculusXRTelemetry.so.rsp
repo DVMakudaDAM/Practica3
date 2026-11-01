@@ -1,0 +1,13 @@
+"/home/makuda/GitHub/Practica3/Plugins/MetaXR/Intermediate/Build/Linux/x64/UnrealEditor/Development/OculusXRTelemetry/Module.OculusXRTelemetry.gen.cpp.o"
+"/home/makuda/GitHub/Practica3/Plugins/MetaXR/Intermediate/Build/Linux/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRTelemetryPrivacySettings.cpp.o"
+"/home/makuda/GitHub/Practica3/Plugins/MetaXR/Intermediate/Build/Linux/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRQPL.cpp.o"
+"/home/makuda/GitHub/Practica3/Plugins/MetaXR/Intermediate/Build/Linux/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRTelemetryWrapper.cpp.o"
+"/home/makuda/GitHub/Practica3/Plugins/MetaXR/Intermediate/Build/Linux/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRTelemetry.cpp.o"
+"/home/makuda/GitHub/Practica3/Plugins/MetaXR/Intermediate/Build/Linux/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRTelemetryModule.cpp.o"
+"/home/makuda/GitHub/Practica3/Plugins/MetaXR/Intermediate/Build/Linux/x64/UnrealEditor/Development/OculusXRTelemetry/PerModuleInline.gen.cpp.o"
+-soname="libUnrealEditor-OculusXRTelemetry.so"
+-rpath="${ORIGIN}/../../../../../../Unreal/Engine/Linux_Unreal_Engine_5.8.3/Engine/Binaries/Linux"
+-rpath-link="/home/makuda/GitHub/Practica3/Plugins/MetaXR/Binaries/Linux"
+-L"../Binaries/Linux"
+--start-group
+--end-group

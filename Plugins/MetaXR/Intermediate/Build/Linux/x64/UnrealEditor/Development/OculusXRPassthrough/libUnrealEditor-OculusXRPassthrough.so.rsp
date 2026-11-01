@@ -1,0 +1,16 @@
+"/home/makuda/GitHub/Practica3/Plugins/MetaXR/Intermediate/Build/Linux/x64/UnrealEditor/Development/OculusXRPassthrough/Module.OculusXRPassthrough.cpp.o"
+-soname="libUnrealEditor-OculusXRPassthrough.so"
+-rpath="${ORIGIN}/../../../../../../Unreal/Engine/Linux_Unreal_Engine_5.8.3/Engine/Binaries/ThirdParty/OpenXR/linux/x86_64-unknown-linux-gnu"
+-rpath="${ORIGIN}/../../../../../../Unreal/Engine/Linux_Unreal_Engine_5.8.3/Engine/Binaries/Linux"
+-rpath="${ORIGIN}/../../../../../../Unreal/Engine/Linux_Unreal_Engine_5.8.3/Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Linux"
+-rpath="${ORIGIN}/../../../../../../Unreal/Engine/Linux_Unreal_Engine_5.8.3/Engine/Plugins/Runtime/XRBase/Binaries/Linux"
+-rpath="${ORIGIN}/../../../../../../Unreal/Engine/Linux_Unreal_Engine_5.8.3/Engine/Plugins/Runtime/OpenXR/Binaries/Linux"
+-rpath-link="/home/makuda/GitHub/Practica3/Plugins/MetaXR/Binaries/Linux"
+-L"../Binaries/ThirdParty/OpenXR/linux/x86_64-unknown-linux-gnu"
+-L"../Binaries/Linux"
+-L"../Plugins/Runtime/ProceduralMeshComponent/Binaries/Linux"
+-L"/home/makuda/GitHub/Practica3/Plugins/MetaXR/Binaries/Linux"
+-L"../Plugins/Runtime/XRBase/Binaries/Linux"
+-L"../Plugins/Runtime/OpenXR/Binaries/Linux"
+--start-group
+--end-group

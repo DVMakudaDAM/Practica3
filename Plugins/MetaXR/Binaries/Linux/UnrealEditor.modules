@@ -1,0 +1,9 @@
+{
+	"BuildId": "55116800",
+	"Modules": 
+	{
+		"OculusXRHMD": "libUnrealEditor-OculusXRHMD.so",
+		"OculusXRPassthrough": "libUnrealEditor-OculusXRPassthrough.so",
+		"OculusXRTelemetry": "libUnrealEditor-OculusXRTelemetry.so"
+	}
+}
